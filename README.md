@@ -1,3 +1,3 @@
 # Belajar-git
 
-*hahaha hihihi huhuh
+* hahaha hihihi huhuh
